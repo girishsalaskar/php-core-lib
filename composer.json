@@ -1,0 +1,14 @@
+{
+    "name": "girishsalaskar/php-core-lib",
+    "type": "library",
+    "description": "This package provides a bunch of classes. The classes are nothing but helper scripts which converts procedure oriented scripting to object oriented scripting.",
+    "keywords": ["ftp", "remote", "upload", "download"],
+    "homepage": "https://github.com/girishsalaskar/php-core-lib",
+    "license": "MIT",
+    "authors": [{
+        "name": "Girish Salaskar",
+        "email": "girishsalaskar812@gmail.com",
+        "homepage": "https://github.com/girishsalaskar/",
+        "role": "Developer"
+    }]
+}
